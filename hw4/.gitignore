@@ -1,0 +1,13 @@
+hw4_data/
+p1_src/test.py
+p1_src/exp_p1_3.sh
+p2_src/tmp.py
+*/__pycache__
+log/
+p2_src/byol_pytorch/__pycache__
+best_model_p1.mdl
+best_model_p2.mdl 
+label2class.txt
+predict.csv
+result.csv
+acc.txt
