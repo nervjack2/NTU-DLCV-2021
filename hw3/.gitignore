@@ -1,0 +1,16 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+log/*
+catr/*
+p1_src/__pycache__
+p2_src/__pycache__
+p1_result/*
+p2_result/*
+p1_result.csv
+p1_src/test.py 
+p1_src/test_csv.py
+hw3_data/*
+hw3_intro.pdf
+best_model_hw3_1.mdl
+__MACOSX/*
