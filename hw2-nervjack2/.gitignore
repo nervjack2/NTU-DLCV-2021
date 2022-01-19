@@ -1,0 +1,29 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specofied below
+
+hw2_intro.pdf
+log/*
+p1_result/*
+p2_result/*
+p1_src/plot.py
+p1_src/is_metrice.py 
+p2_src/test.py
+p3_src/p3_2_src/check_acc.py 
+p3_src/p3_2_src/test.py 
+hw2_data/*
+best_generator_p1.mdl
+best_generator_p2.mdl
+best_classifier_mnistm.mdl
+best_classifier_usps.mdl
+best_classifier_svhn.mdl
+Classifier.pth
+*png
+*jpg
+Classifier.pth
+result.csv
+
+p1_src/__pycache__/
+p2_src/__pycache__/
+p3_src/p3_1_src/__pycache__/
+p3_src/p3_2_src/__pycache__/
+p3_src/p3_3_src/__pycache__/
